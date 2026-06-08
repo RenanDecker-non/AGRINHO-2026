@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>EcoUrban Future</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <div class="nav-container">
+            <div class="logo">
+                <i class="fa-solid fa-seedling"></i> EcoUrban Future
+            </div>
+            <!-- ... restante do menu ... -->
+        </div>
+    </header>
+
+    <section id="cidades-futuro">
+        <div class="cases-wrapper">
+            <h2 class="section-title">Cidades do Futuro e Notícias</h2>
+            <div class="interactive-grid">
+                
+                <!-- Post 1: Resultado da Copa -->
+                <div class="interactive-card">
+                    <h3>Destaque Esportivo</h3>
+                    <p><strong>Copa do Mundo 2026:</strong> Em uma final histórica, a Seleção Brasileira conquistou o hexacampeonato ao vencer a França por 2x0, com gols de Endrick e Rodrygo!</p>
+                </div>
+
+                <!-- Post 2: Exemplo de Fake News -->
+                <div class="interactive-card" style="border: 2px solid red;">
+                    <h3>Alerta de Utilidade Pública</h3>
+                    <p><strong>Atenção:</strong> Circula nas redes que a prefeitura irá substituir toda a rede de água por um sistema de "água aromatizada". <em>Informação falsa:</em> Não compartilhe boatos, consulte sempre os canais oficiais da prefeitura.</p>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <!-- Restante do seu conteúdo aqui -->
+
+</body>
+</html>
